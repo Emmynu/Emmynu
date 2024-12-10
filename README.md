@@ -14,6 +14,6 @@ I'm always eager to learn and explore new technologies. Let's connect and build 
 
 **Feel free to reach out to me on:**
 
-* **GitHub:** https://github.com/Emmynu🐙
+* **GitHub:** https://github.com/Emmynu 🐙
 * **LinkedIn:**  https://www.linkedin.com/in/similoluwa-emmanuel-082873260 💼
 * **Email:** oketunbi.olufunke@gmail.com📧
