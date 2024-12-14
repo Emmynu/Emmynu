@@ -16,4 +16,5 @@ I'm always eager to learn and explore new technologies. Let's connect and build 
 
 * **GitHub:** https://github.com/Emmynu 🐙
 * **LinkedIn:**  https://www.linkedin.com/in/similoluwa-emmanuel-082873260 💼
+* **Portfolio:** https://my-portfolio-zeta-three-29.vercel.app/ 🕸
 * **Email:** oketunbi.olufunke@gmail.com📧
