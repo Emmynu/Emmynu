@@ -7,7 +7,7 @@ I'm a dedicated frontend developer with a passion for crafting elegant and user-
 **Skills:**
 
 * **Frontend Development:** React ⚛️, Next.js ⚛️, Tailwind CSS💅 ,Sass🎨, JavaScript ☕, TypeScript ⌨️
-* **Backend:** MongoDB 🗄️,Firebase 🔥
+* **Backend:** MongoDB 🗄️,Firebase 🔥, Prisma 🕉
 * **Version Control:** Git 🐙, GitHub 🐙
 
 I'm always eager to learn and explore new technologies. Let's connect and build something amazing together! 🚀
