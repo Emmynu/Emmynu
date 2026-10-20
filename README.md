@@ -6,7 +6,7 @@ I build responsive, user-friendly web applications and the APIs behind them. On 
 
 ## Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, Redux Toolkit, Tailwind CSS, DaisyUI, Sass
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, DaisyUI, Sass
 
 **Backend:** Python, FastAPI, REST APIs, JWT, SlowAPI
 
