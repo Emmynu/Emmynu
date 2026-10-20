@@ -1,20 +1,29 @@
-# Adelaja Similoluwa Emmanuel 🚀
+# Hi, I'm Adelaja Similoluwa Emmanuel 👋
 
-**Frontend Developer** 👨‍💻
+**Full-Stack Developer based in Lagos, Nigeria**
 
-I'm a dedicated frontend developer with a passion for crafting elegant and user-friendly web applications. I specialize in leveraging the power of **React** ⚛️, **Next.js** ⚛️, **Tailwind CSS** 🎨, and **TypeScript**  ⌨️ to create dynamic and responsive user interfaces.
+I build responsive, user-friendly web applications and the APIs behind them. On the frontend, I work with **React**, **Next.js**, **TypeScript** and **Tailwind CSS**. On the backend, I build REST APIs with **Python (FastAPI)** and **PostgreSQL**. I'm always learning and enjoy turning ideas into clean, reliable products.
 
-**Skills:**
+## Tech Stack
 
-* **Frontend Development:** React ⚛️, Next.js ⚛️, Tailwind CSS💅 ,Sass🎨, JavaScript ☕, TypeScript ⌨️
-* **Backend:** MongoDB 🗄️,Firebase 🔥, Prisma 🕉
-* **Version Control:** Git 🐙, GitHub 🐙
+**Frontend:** React, Next.js, TypeScript, JavaScript, Redux Toolkit, Tailwind CSS, DaisyUI, Sass
 
-I'm always eager to learn and explore new technologies. Let's connect and build something amazing together! 🚀
+**Backend:** Python, FastAPI, REST APIs, JWT, SlowAPI
 
-**Feel free to reach out to me on:**
+**Databases and ORMs:** PostgreSQL, SQLAlchemy, MongoDB, Prisma, Redis, Firebase
 
-* **GitHub:** https://github.com/Emmynu 🐙
-* **LinkedIn:**  https://www.linkedin.com/in/similoluwa-emmanuel-082873260 💼
-* **Portfolio:** https://my-portfolio-zeta-three-29.vercel.app/ 🕸
-* **Email:** oketunbi.olufunke@gmail.com📧
+**Tools:** Git, GitHub, Azure DevOps, Render
+
+## Featured Project
+
+**VectorPay** is a full-stack wallet application.
+
+- Next.js and Tailwind CSS frontend with wallet funding, peer-to-peer transfers, transaction history and an admin dashboard
+- FastAPI and PostgreSQL backend, migrated from MongoDB
+- Row-level locking for safe concurrent transfers, verified payment webhooks, and JWT token blacklisting with Redis
+- [Repository](https://github.com/Emmynu/Vector-pay-v2) | [Live Demo](https://next-tuts-jet.vercel.app/)
+
+## Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/adelaja-similoluwa-082873260](https://www.linkedin.com/in/adelaja-similoluwa-082873260)
+- **Email:** oketunbi.olufunke@gmail.com
